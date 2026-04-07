@@ -111,8 +111,8 @@ best_model.fit(X_train, y_train)
 ```
 titanic-survival-prediction/
 │
-├── titanic_survived.ipynb     # Main notebook with full pipeline
-└── README.md                  # Project documentation
+├── titanic_survived.ipynb     
+└── README.md                  
 ```
 
 ---
@@ -152,7 +152,7 @@ jupyter notebook titanic_survived.ipynb
 | Seaborn | Dataset loading & visualization |
 | Matplotlib | Tree visualization |
 | Scikit-learn | Modeling, imputation, encoding, evaluation |
-| Jupyter Notebook | Interactive development |
+| Jupyter Notebook | 
 
 ---
 

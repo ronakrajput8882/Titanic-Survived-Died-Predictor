@@ -10,7 +10,17 @@
 
 </div>
 
+---
 
+## 📌 Project Overview
+
+The Titanic disaster is one of the most well-known datasets in data science. This project builds a **binary classification model** to predict passenger survival using Decision Tree classifiers. The key focus is on demonstrating how **Cost Complexity Pruning (CCP)** significantly reduces overfitting and improves test accuracy.
+
+- **Task:** Binary Classification (Survived / Did Not Survive)
+- **Dataset:** Titanic (via Seaborn built-in dataset)
+- **Goal:** Maximize prediction accuracy while avoiding an overfitted tree
+
+---
 
 ## 📂 Dataset
 
